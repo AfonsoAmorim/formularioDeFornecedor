@@ -1,0 +1,11 @@
+C:\Users\CASA\Desktop\Project.Exemplo.WindowsForms.UI\Project.Exemplo.WindowsForms.UI\obj\Debug\Project.Exemplo.WindowsForms.UI.csproj.AssemblyReference.cache
+C:\Users\CASA\Desktop\Project.Exemplo.WindowsForms.UI\Project.Exemplo.WindowsForms.UI\obj\Debug\Project.Exemplo.WindowsForms.UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\CASA\Desktop\Project.Exemplo.WindowsForms.UI\Project.Exemplo.WindowsForms.UI\obj\Debug\Project.Exemplo.WindowsForms.UI.FormularioInicial.resources
+C:\Users\CASA\Desktop\Project.Exemplo.WindowsForms.UI\Project.Exemplo.WindowsForms.UI\obj\Debug\Project.Exemplo.WindowsForms.UI.Properties.Resources.resources
+C:\Users\CASA\Desktop\Project.Exemplo.WindowsForms.UI\Project.Exemplo.WindowsForms.UI\obj\Debug\Project.Exemplo.WindowsForms.UI.csproj.GenerateResource.cache
+C:\Users\CASA\Desktop\Project.Exemplo.WindowsForms.UI\Project.Exemplo.WindowsForms.UI\obj\Debug\Project.Exemplo.WindowsForms.UI.csproj.CoreCompileInputs.cache
+C:\Users\CASA\Desktop\Project.Exemplo.WindowsForms.UI\Project.Exemplo.WindowsForms.UI\bin\Debug\Project.Exemplo.WindowsForms.UI.exe.config
+C:\Users\CASA\Desktop\Project.Exemplo.WindowsForms.UI\Project.Exemplo.WindowsForms.UI\bin\Debug\Project.Exemplo.WindowsForms.UI.exe
+C:\Users\CASA\Desktop\Project.Exemplo.WindowsForms.UI\Project.Exemplo.WindowsForms.UI\bin\Debug\Project.Exemplo.WindowsForms.UI.pdb
+C:\Users\CASA\Desktop\Project.Exemplo.WindowsForms.UI\Project.Exemplo.WindowsForms.UI\obj\Debug\Project.Exemplo.WindowsForms.UI.exe
+C:\Users\CASA\Desktop\Project.Exemplo.WindowsForms.UI\Project.Exemplo.WindowsForms.UI\obj\Debug\Project.Exemplo.WindowsForms.UI.pdb

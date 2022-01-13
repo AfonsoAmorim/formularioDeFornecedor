@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a176b62e-f943-4e3b-a054-84b67d1d0941": {
+      "ProjectGuid": "a176b62e-f943-4e3b-a054-84b67d1d0941",
+      "DisplayName": "Project.Exemplo.WindowsForms.UI",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
